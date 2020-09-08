@@ -9,6 +9,7 @@ Numpy was used for some simple mathematical formatting of data.
 Jupyter was also used for quick visualization within my IDE, VSCode.
 
 Results were as follows:
+
 ![GDP Infection Rate](GDPvInfectionRate.png)
 ![Social Support Infection Rate](SocialSupportvInfectionRate.png)
 ![Life Expectancy Infection Rate](LifeExpvInfectionRate.png)
