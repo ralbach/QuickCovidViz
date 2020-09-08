@@ -9,10 +9,10 @@ Numpy was used for some simple mathematical formatting of data.
 Jupyter was also used for quick visualization within my IDE, VSCode.
 
 Results were as follows:
-![GDP Infection Rate]('/GDPvInfectionRate.png')
-![Social Support Infection Rate]('/SocialSupportvInfectionRate.png')
-![Life Expectancy Infection Rate]('/LifeExpvInfectionRate.png')
-![Overlaid Infection Rate]('/ComparativeInfectionRate.png.png')
+![GDP Infection Rate](https://github.com/ralbach/QuickCovidViz/blob/master/Documents/Coding/Python/covid/GDPvInfectionRate.png)
+![Social Support Infection Rate]('https://github.com/ralbach/QuickCovidViz/blob/master/Documents/Coding/Python/covid/SocialSupportvInfectionRate.png')
+![Life Expectancy Infection Rate]('https://github.com/ralbach/QuickCovidViz/blob/master/Documents/Coding/Python/covid/LifeExpvInfectionRate.png')
+![Overlaid Infection Rate]('https://github.com/ralbach/QuickCovidViz/blob/master/Documents/Coding/Python/covid/ComparativeInfectionRate.png')
 
 
 As you can see, While all have some correlation to increased infection rates (possibly due to poorer testing numbers in poor countries), a higher life expectancy leads to more infections (as the virus targets more elderly), regardless of GDP or Social Support offered.
